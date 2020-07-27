@@ -18,6 +18,9 @@ function App() {
           category={dadosIniciais.categorias[0]}
         />
       </BannerMain>
+      <Carousel
+          category={dadosIniciais.categorias[1]}
+      />
       <Footer></Footer>
     </div>
   );

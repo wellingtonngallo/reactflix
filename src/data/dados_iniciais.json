@@ -10,12 +10,12 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "A história de THE LAST OF US 2, minhas CRÍTICAS",
+          "url": "https://www.youtube.com/watch?v=12XFIDwMnek&t=2180s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "GHOST OF TSUSHIMA - O Início de Gameplay, no PS4 Pro | Legendado em Português PT-BR",
+          "url": "https://www.youtube.com/watch?v=5IfovBU1wcQ&t=447s"
         },
         {
           "titulo": "Componentização com VanillaJS #AluraMais",
@@ -44,32 +44,16 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Gameplays",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Jogos PS4",
+        "url": "https://www.playstation.com/pt-br/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "GHOST OF TSUSHIMA - O Início de Gameplay, no PS4 Pro | Legendado em Português PT-BR",
+          "url": "https://www.youtube.com/watch?v=5IfovBU1wcQ&t=447s"
         }
       ]
     },
@@ -82,8 +66,8 @@
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "GHOST OF TSUSHIMA - O Início de Gameplay, no PS4 Pro | Legendado em Português PT-BR",
+          "url": "https://www.youtube.com/watch?v=5IfovBU1wcQ&t=447s"
         },
         {
           "titulo": "O que é Data Science?",
